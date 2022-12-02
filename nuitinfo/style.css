@@ -1,0 +1,451 @@
+*
+{
+    font-family: sans-serif;
+}
+
+body
+{
+    background-color: white;
+}
+
+.roothome
+{
+    background-color: lightgray;
+    border-radius: 10px;
+    width: 900px;
+    height: 70px;
+    border: 10px;
+    color: white;
+    padding: 10px;
+}
+
+.link
+{
+    display: block;
+    text-align: center;
+}
+
+.text_enigme2
+{
+    position: absolute;
+    top: 40%;
+    right: 45%;
+}
+
+.enigme2_img
+{
+    background-color: lightgray;
+    border-color: lightgray;
+    border-radius: 10px;
+    width: 350px;
+    height: 100px;
+    border: 200px;
+    padding: 10px;
+    position: absolute;
+    right: 38%;
+    top: 15%;
+}
+
+.enigme2_zero
+{
+    width: 80px;
+}
+
+.enigme2_warning
+{
+    width: 80px;
+}
+
+.enigme2_fleche
+{
+    width: 80px;
+}
+.enigme2_medoc 
+{
+    width: 80px;
+}
+
+.rootenigme
+{
+    display: block;
+    position: absolute;
+    top: 0%;
+    right: 2px;
+    width: 20%;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.portenoir
+{
+    display: block;
+    position: absolute;
+    font-size: 30px;
+    top:120%;
+    right: 40%;
+}
+
+.truc_convertisseur
+{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.texte
+{
+    background-color: lightgray;
+    border-radius: 20px;
+    width: 850px;
+    height: 160px;
+    border: 10px;
+    color: black;
+    padding: 10px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+}
+
+.footer-final
+{
+    display: block;
+    position:absolute;
+    top: 85%;
+    right: 80%;
+    font-size: 25px;
+}
+
+.footer-basic
+{
+    display: block;
+    position:absolute;
+    top: 150%;
+    right: 80%;
+    font-size: 25px;
+}
+
+.footer
+{
+    display: block;
+    position:absolute;
+    top: 70%;
+    right: 80%;
+    font-size: 25px;
+}
+
+.pute
+{
+    background-color: lightgray;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    border: 10px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    
+}
+
+.eye 
+{
+    position: absolute;
+    top: 50%;
+    width: 100px;
+
+}
+
+.texteporteouvre
+{
+
+    font-size: 30px;
+    position: absolute;
+    top: 90%;
+    left: 35%;
+}
+
+
+
+.tab 
+{
+    width: 100px;
+}
+
+.but {
+    border: 0;
+    margin-left: 20px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(58, 58, 58);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+}
+
+.but:hover {
+    background-color: rgb(29, 29, 29);
+}
+
+.final1 {
+    border: 0;
+    border-bottom-width: 8px;
+    padding: 0 -50px;
+    height: 30px;
+    font-size: large;
+    text-align: left;
+    background-color: lightgray;
+}
+
+.bottom {
+    margin-top: 150px;
+}
+
+.lamp {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    width: 30%;
+
+}
+
+.list {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+
+.text {
+    background-color: lightgray;
+    position: absolute;
+    padding: 1%;
+    border-radius: 15%;
+    right: 40%;
+    top: 12%;
+}
+
+.but {
+    position: absolute;
+    border: 0;
+    margin-left: 20px;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(58, 58, 58);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    top: 39.5%;
+    right: 40%;
+}
+
+.but:hover {
+    background-color: rgb(29, 29, 29);
+}
+
+.final1 {
+    position: absolute;
+    border: 3px;
+    border-bottom-width: 8px;
+    padding: 0 -50px;
+    height: 30px;
+    font-size: large;
+    text-align: left;
+    background-color: lightgray;
+    top: 40%;
+    right: 45%;
+}
+
+.iti4
+{
+    width: 900px;
+    position: absolute;
+    top: -13%;
+    right: -20%;
+}
+
+.iti3
+{
+    width: 900px;
+    position: absolute;
+    top: -13%;
+    right: -20%;
+}
+
+.iti2
+{
+    width: 900px;
+    position: absolute;
+    top: -13%;
+    right: -20%;
+}
+
+.iti1
+{
+    width: 900px;
+    position: absolute;
+    top: -13%;
+    right: -20%;
+}
+
+
+
+
+body {
+    width: 600px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #191718;
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+  }
+
+ .SIDA1{
+    position: relative;
+top: 0px; left: 250px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.SIDA2{
+    position: relative;
+top: 30px; left: 223px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.SIDA3{
+    position: relative;
+top: 60px; left: 196px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.SIDA4{
+    position: relative;
+top: 90px; left: 169px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient1{
+    position: relative;
+top: 30px; left: 35px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient2{
+    position: relative;
+top: 30px; left: 35px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient3{
+    position: relative;
+top: 30px; left:35px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient4{
+    position: relative;
+top: 30px; left: 35px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient6{
+    position: relative;
+top: 30px; left: 60px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient7{
+    position: relative;
+top: 30px; left: 60px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Contient8{
+    position: relative;
+top: 30px; left: 60px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Pas1{
+    position: relative;
+top: 90px; right: 75px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Pas3{
+position: relative;
+top: 90px; right: 45px;
+width: 15px;
+height: 15px;
+background: red;
+}
+.Salive2{
+position: relative;
+top: 115px; right: 72px;
+width: 15px;
+height: 15px;
+background: red;
+
+}
+.Salive3{
+    position: relative;
+    top: 140px; right: 99px;
+    width: 15px;
+    height: 15px;
+    background: red;
+    
+    }
+    .Salive4{
+        position: relative;
+        top: 165px; right: 126px;
+        width: 15px;
+        height: 15px;
+        background: red;
+        
+        }
+        .Salive5{
+            position: relative;
+            top: 190px; right: 153px;
+            width: 15px;
+            height: 15px;
+            background: red;
+            
+            }
+            .Salive6{
+                position: relative;
+                top:190px; right: 153px;
+                width: 15px;
+                height: 15px;
+                background: red;
+                
+                }
+                .Salive7{
+                    position: relative;
+                    top: 215px; right: 180px;
+                    width: 15px;
+                    height: 15px;
+                    background: red;
+                    
+                    }
